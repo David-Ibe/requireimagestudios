@@ -26,7 +26,7 @@ export default function PhotographyPage() {
     {
       title: "Corporate Photography",
       description: "Professional headshots and corporate events.",
-      image: "/duro.JPG",
+      image: "/duro.jpg",
       link: "/gallery/businessevents",
       folderPath: "businessevents"
     },
@@ -47,7 +47,7 @@ export default function PhotographyPage() {
     {
       title: "Special Events",
       description: "Making your special events memorable.",
-      image: "/bankers.JPG",
+      image: "/bankers.jpg",
       link: "/gallery/events",
       folderPath: "events"
     },

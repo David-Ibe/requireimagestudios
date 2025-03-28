@@ -10,7 +10,7 @@ const slides = [
     alt: "Slide 1",
   },
   {
-    src: "/br.jpg",
+    src: "/generational.jpg",
     alt: "Slide 2",
   },
   {
@@ -19,7 +19,7 @@ const slides = [
   },
   
   {
-    src: "/e.jpg",
+    src: "/2.jpg",
     alt: "Slide 5",
   },
   {
@@ -39,7 +39,7 @@ const slides = [
     alt: "Wedding Photography 9",
   },
   {
-    src: "/10.jpg",
+    src: "/n.jpg",
     alt: "Wedding Photography 10",
   },
 ]
