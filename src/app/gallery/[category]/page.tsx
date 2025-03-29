@@ -34,9 +34,6 @@ export default function GalleryPage() {
             { length: 20 },
             (_, i) => {
               const num = i + 1
-              if (num === 10 || num === 11) {
-                return `/images/gallery/weddings/${num}.JPG`
-              }
               if (num === 15) return null
               return `/images/gallery/weddings/${num}.jpg`
             }
