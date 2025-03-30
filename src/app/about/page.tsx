@@ -9,7 +9,7 @@ export default function AboutPage() {
   const [isClient, setIsClient] = useState(false)
 
   // Array of 20 images
-  const images = Array.from({ length: 20 }, (_, i) => `/images/gallery/about/${i + 1}.jpg`)
+  const images = Array.from({ length: 30 }, (_, i) => `/images/gallery/about/${i + 1}.jpg`)
   
   // Duplicate images for seamless loop
   const duplicatedImages = [...images, ...images]
